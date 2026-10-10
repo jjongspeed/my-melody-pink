@@ -51,12 +51,12 @@
       "#FFF2FC",
       "#FFFFFF"
     ],
-    "BACKGROUND_SECONDARY": [
-      "#FFE3F8",
+        "BACKGROUND_SECONDARY": [
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FFCEF3",
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
@@ -127,8 +127,8 @@
       "transparent",
       "transparent"
     ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#FFE3F8",
+      "CHANNELTEXTAREA_BACKGROUND": [
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "CHAT_BACKGROUND": [
