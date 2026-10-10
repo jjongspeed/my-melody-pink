@@ -22,14 +22,18 @@
     "HEADER_SECONDARY": [
       "#ff87df",
       "#ff87df"
+        ],
+    "TEXT_NORMAL": [
+      "#FF5EC7",
+      "#FF5EC7"
     ],
-      "TEXT_NORMAL": [
-      "#FA5CCB",
-      "#fa5ccb"  
-      ],
+    "text_normal": [
+      "#FF5EC7",
+      "#FF5EC7"
+    ],
     "TEXT_MUTED": [
       "#FF96DA",
-      "#FF96DA"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
       "#FF8AE0",
@@ -163,8 +167,8 @@
   },
   "rawColors": {
     "PRIMARY": "#FF96DA",
-    "PRIMARY_100": "#FA5CCB",
-    "PRIMARY_200": "#FA5CCB",
+    "PRIMARY_100": "#FF5EC7",
+    "PRIMARY_200": "#FF5EC7",
     "PRIMARY_300": "#FFCEF3",
     "PRIMARY_360": "#FFC4EF",
     "PRIMARY_400": "#FF8AE0",
@@ -175,7 +179,7 @@
     "PRIMARY_800": "#FFAEE7",
     "PRIMARY_900": "#FF8AE0",
     "PLUM_1": "#FF96DA",
-    "PLUM_10": "#D93CA9",
+    "PLUM_10": "#FF5EC7",
     "PLUM_11": "#FFF7FD",
     "PLUM_13": "#FFCEF3",
     "PLUM_15": "#FF8AE0",
@@ -197,7 +201,7 @@
     "RED_400": "#FF8AE0"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#f78bd6"
+    "CHAT_GREY": "#FF5EC7"
   },
      "background": {
       "blur": 0,
