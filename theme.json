@@ -23,12 +23,12 @@
       "#ff87df",
       "#ff87df"
     ],
-    "TEXT_NORMAL": [
-      "#ffffff",
-      "#ffffff"
-      ],    
+      "TEXT_NORMAL": [
+      "#FA5CCB",
+      "#FFFFFF"  
+      ],
     "TEXT_MUTED": [
-      "#FF75DD",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
@@ -48,7 +48,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#FFF2FC",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
@@ -72,7 +72,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#FFF2FC",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
@@ -80,7 +80,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FFF2FC",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "BACKGROUND_MENTIONED": [
@@ -88,7 +88,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFF2FC7A",
+      "#FF96DA7A",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -132,15 +132,15 @@
       "#FFFFFF"
     ],
     "CHAT_BACKGROUND": [
-      "#FFF2FC",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#FF78CB",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "CARD_PRIMARY_BG": [
-      "#FFF2FC"
+      "#FF96DA"
     ],
     "BG_BACKDROP": [
       "#FFAEE773"
@@ -153,7 +153,7 @@
       "#FFFFFF"
     ],
     "KEYBOARD": [
-      "#FFF2FC",
+      "#FF96DA",
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
@@ -162,28 +162,28 @@
     ]
   },
   "rawColors": {
-    "PRIMARY": "#FFF2FC",
+    "PRIMARY": "#FF96DA",
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFF7FD",
     "PRIMARY_300": "#FFCEF3",
     "PRIMARY_360": "#FFC4EF",
     "PRIMARY_400": "#FF8AE0",
-    "PRIMARY_500": "#FFF2FC",
+    "PRIMARY_500": "#FF96DA",
     "PRIMARY_600": "#FF5ED4",
     "PRIMARY_630": "#FFAEE7",
     "PRIMARY_700": "#FFC4EF",
     "PRIMARY_800": "#FFAEE7",
     "PRIMARY_900": "#FF8AE0",
-    "PLUM_1": "#FFF2FC",
+    "PLUM_1": "#FF96DA",
     "PLUM_10": "#D93CA9",
     "PLUM_11": "#FFF7FD",
     "PLUM_13": "#FFCEF3",
     "PLUM_15": "#FF8AE0",
     "PLUM_17": "#FF5ED4",
     "PLUM_18": "#FFAEE7",
-    "PLUM_19": "#FFF2FC",
-    "PLUM_20": "#FFF2FC",
-    "PLUM_22": "#FFF2FC",
+    "PLUM_19": "#FF96DA",
+    "PLUM_20": "#FF96DA",
+    "PLUM_22": "#FF96DA",
     "BRAND_260": "#FFFFFF",
     "BRAND_500": "#FF8AE0",
     "BRAND_560": "#FF57D1",
@@ -197,7 +197,7 @@
     "RED_400": "#FF8AE0"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#D93CA9"
+    "CHAT_GREY": "#f78bd6"
   },
      "background": {
       "blur": 0,
