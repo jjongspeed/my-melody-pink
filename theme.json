@@ -26,9 +26,9 @@
     "TEXT_NORMAL": [
       "#ffffff",
       "#ffffff"
-      ],
+      ],    ],
     "TEXT_MUTED": [
-      "#FFAEE7",
+      "#FF75DD",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
@@ -51,7 +51,7 @@
       "#FFF2FC",
       "#FFFFFF"
     ],
-        "BACKGROUND_SECONDARY": [
+    "BACKGROUND_SECONDARY": [
       "#FF5ED4",
       "#FFFFFF"
     ],
@@ -68,7 +68,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#FFE3F8",
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -76,7 +76,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#FFE3F8",
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -112,7 +112,7 @@
       "#FFFFFF"
     ],
      "BG_SURFACE_OVERLAY_TMP": [
-      "#FFE3F8",
+      "#FF5ED4",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -127,7 +127,7 @@
       "transparent",
       "transparent"
     ],
-      "CHANNELTEXTAREA_BACKGROUND": [
+    "CHANNELTEXTAREA_BACKGROUND": [
       "#FF5ED4",
       "#FFFFFF"
     ],
@@ -136,7 +136,7 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#D93CA9",
+      "#FF78CB",
       "#FFFFFF"
     ],
     "CARD_PRIMARY_BG": [
@@ -146,7 +146,7 @@
       "#FFAEE773"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#FFE3F8"
+      "#FF5ED4"
     ],
     "TEXT_LINK": [
       "#FF57D1",
@@ -169,7 +169,7 @@
     "PRIMARY_360": "#FFC4EF",
     "PRIMARY_400": "#FF8AE0",
     "PRIMARY_500": "#FFF2FC",
-    "PRIMARY_600": "#FFE3F8",
+    "PRIMARY_600": "#FF5ED4",
     "PRIMARY_630": "#FFAEE7",
     "PRIMARY_700": "#FFC4EF",
     "PRIMARY_800": "#FFAEE7",
@@ -179,7 +179,7 @@
     "PLUM_11": "#FFF7FD",
     "PLUM_13": "#FFCEF3",
     "PLUM_15": "#FF8AE0",
-    "PLUM_17": "#FFE3F8",
+    "PLUM_17": "#FF5ED4",
     "PLUM_18": "#FFAEE7",
     "PLUM_19": "#FFF2FC",
     "PLUM_20": "#FFF2FC",
