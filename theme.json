@@ -25,11 +25,11 @@
     ],
       "TEXT_NORMAL": [
       "#FA5CCB",
-      "#FFFFFF"  
+      "#fa5ccb"  
       ],
     "TEXT_MUTED": [
       "#FF96DA",
-      "#FFFFFF"
+      "#FF96DA"
     ],
     "INTERACTIVE_NORMAL": [
       "#FF8AE0",
